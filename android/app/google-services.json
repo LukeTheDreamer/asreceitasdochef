@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "785174995472",
+    "project_id": "receitasdochef-b64ea",
+    "storage_bucket": "receitasdochef-b64ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785174995472:android:d8f29a65826ea1ac2de095",
+        "android_client_info": {
+          "package_name": "com.receitasdochef.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785174995472-k3f67b2m11ndp34ju9s6v2p5fmudufb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnaE4sX2T9KN4OTRhiUb7oMZ_aQSmY3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785174995472-k3f67b2m11ndp34ju9s6v2p5fmudufb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785174995472:android:ff5fc960930380602de095",
+        "android_client_info": {
+          "package_name": "com.receitasteste.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785174995472-k3f67b2m11ndp34ju9s6v2p5fmudufb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnaE4sX2T9KN4OTRhiUb7oMZ_aQSmY3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785174995472-k3f67b2m11ndp34ju9s6v2p5fmudufb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
